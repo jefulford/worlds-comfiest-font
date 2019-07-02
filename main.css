@@ -1,0 +1,29 @@
+p {
+	font-family: Arial;
+}
+body {
+	text-align: center;
+	background-image: linear-gradient(#0058a3,#5d8867, #ffdb00);
+}
+.lead {
+	margin-top: 100px;
+	line-height: 800px;
+}
+.main {
+	margin-top: 400px;
+	margin-bottom: 300px;
+}
+h1, h3 {
+	font-family: 'IKEA-VALLENTUNA-SANS';
+}
+h1 {
+	font-size: 50px;
+}
+h3 {
+	font-size: 20px;
+}
+.special {
+	font-family: 'IKEA-SOFA-SANS';
+	font-size: 220px;
+	color: blue;
+}
